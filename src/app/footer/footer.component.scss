@@ -1,0 +1,101 @@
+.content-wrap {
+    width: 88%;
+    margin: 0 auto;
+}
+#bg-footer {
+    background-color: #2F274A;
+    overflow: auto;
+    width: 100%;
+    padding: 45px 0px;
+}
+#bg-footer #logo-footer {
+    margin:0;
+    display: inline-block;
+}
+#bg-footer #logo-footer img {
+    vertical-align: middle;
+}
+#bg-footer #bottom-nav {
+    margin-left: 115px;
+    display: inline;
+}
+#bg-footer #bottom-nav td {
+    width: 200px;
+    height: 45px;
+}
+#bottom-nav a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 88.69%;
+    /* or 14px */
+    color: #FFFFFF;
+}
+#bg-footer #telegram-footer {
+    float:right;
+    text-align: right;
+    margin-top: 4px;
+}
+#bg-footer #telegram-footer img {
+    display: inline-block;
+    vertical-align: middle;
+}
+#bg-footer #telegram-footer a {
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 107.69%;
+    /* or 17px */
+    letter-spacing: 0.035em;
+    color: #FFFFFF;
+    text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.25);
+}
+#bg-footer #bottom-footer {
+    display: inline;
+}
+#bg-footer #bottom-footer td {
+    width: 100px;
+    height: auto;
+}
+#bg-footer #bottom-footer a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 88.69%;
+    /* identical to box height, or 11px */
+    color: #FFFFFF;
+}
+#bg-footer #bottom-international {
+    margin:0;
+    text-align:right;
+    margin-top: 80px;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 88.69%;
+    /* identical to box height, or 11px */
+    color: #FFFFFF;
+}
+#bg-footer #bottom-last {
+    margin:0;
+    margin-top: 7px;
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 88.69%;
+    /* identical to box height, or 11px */
+    color: #FFFFFF;
+}
